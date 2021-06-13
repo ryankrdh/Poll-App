@@ -7,7 +7,7 @@ import database
 
 DATABASE_PROMPT = "Enter the DATABASE_URI value or leave empty to load from .env file: "
 MENU_PROMPT = """-- Menu --
-
+ 
 1) Create new poll
 2) List open polls
 3) Vote on a poll
